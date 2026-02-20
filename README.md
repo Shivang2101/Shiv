@@ -1,4 +1,4 @@
-
+Data Analytics Project Lifecycle – Overview
 
 The Data Analytics Project Lifecycle refers to a step-by-step framework used to transform raw information into valuable insights that support business decisions. This structured approach ensures accuracy, consistency, and efficiency — from identifying the core issue to presenting final conclusions.
 
